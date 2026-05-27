@@ -1,0 +1,38 @@
+[
+  {
+    "id": "daily",
+    "name": "日常用语",
+    "description": "日常生活中的常用表达和问候语",
+    "sortOrder": 1
+  },
+  {
+    "id": "food",
+    "name": "饮食",
+    "description": "食物、饮料和饮食文化相关词汇",
+    "sortOrder": 2
+  },
+  {
+    "id": "animal",
+    "name": "动物",
+    "description": "常见动物名称",
+    "sortOrder": 3
+  },
+  {
+    "id": "plant",
+    "name": "植物",
+    "description": "常见植物名称",
+    "sortOrder": 4
+  },
+  {
+    "id": "family",
+    "name": "称谓",
+    "description": "家庭成员和人际关系称谓",
+    "sortOrder": 5
+  },
+  {
+    "id": "place",
+    "name": "地名",
+    "description": "地理名称和方位词",
+    "sortOrder": 6
+  }
+]

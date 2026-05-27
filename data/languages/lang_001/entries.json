@@ -1,0 +1,230 @@
+[
+  {
+    "id": "entry_0001",
+    "type": "word",
+    "original": "阿普",
+    "transcription": "a pu",
+    "translation": "苹果",
+    "categoryId": "food",
+    "tags": ["水果", "常用词"],
+    "shortDescription": "一种常见水果。",
+    "culturalNote": "苹果在纳西族地区广泛种植，是当地重要的经济作物之一。在纳西族传统中，苹果象征着平安和丰收。",
+    "exampleSentence": "阿普 ʂɯ ʝi ʈʂʰɯ qʰa.",
+    "exampleTranslation": "这个苹果很甜。",
+    "images": [
+      {
+        "path": "images/entry_0001_main.webp",
+        "caption": "苹果图片",
+        "altText": "一张红苹果的图片"
+      }
+    ],
+    "audio": [
+      {
+        "sourceKey": "source_a",
+        "sourceName": "音源一",
+        "path": "audio/entry_0001_source_a.mp3",
+        "speakerName": "和志华",
+        "dialectName": "丽江坝区",
+        "speedLabel": "正常"
+      },
+      {
+        "sourceKey": "source_b",
+        "sourceName": "音源二",
+        "path": "audio/entry_0001_source_b.mp3",
+        "speakerName": "木丽花",
+        "dialectName": "大研镇",
+        "speedLabel": "正常"
+      }
+    ]
+  },
+  {
+    "id": "entry_0002",
+    "type": "word",
+    "original": "ʓɯ",
+    "transcription": "ngv",
+    "translation": "牛",
+    "categoryId": "animal",
+    "tags": ["家畜", "常用词"],
+    "shortDescription": "常见的家畜动物。",
+    "culturalNote": "牛在纳西族农耕文化中占有重要地位，是传统农业的重要劳动力。纳西族人民对牛有着深厚的感情。",
+    "exampleSentence": "ʓɯ ʈʂʰɯ tʰv ʝi ʈʂʰɯ qʰa.",
+    "exampleTranslation": "这头牛很大。",
+    "images": [
+      {
+        "path": "images/entry_0002_main.webp",
+        "caption": "牛的图片",
+        "altText": "一头水牛的图片"
+      }
+    ],
+    "audio": [
+      {
+        "sourceKey": "source_a",
+        "sourceName": "音源一",
+        "path": "audio/entry_0002_source_a.mp3",
+        "speakerName": "和志华",
+        "dialectName": "丽江坝区",
+        "speedLabel": "正常"
+      },
+      {
+        "sourceKey": "source_b",
+        "sourceName": "音源二",
+        "path": "audio/entry_0002_source_b.mp3",
+        "speakerName": "木丽花",
+        "dialectName": "大研镇",
+        "speedLabel": "正常"
+      }
+    ]
+  },
+  {
+    "id": "entry_0003",
+    "type": "phrase",
+    "original": "你吃饭了吗",
+    "transcription": "nɯ dʐʅ qʰæ læ",
+    "translation": "你吃饭了吗",
+    "categoryId": "daily",
+    "tags": ["问候", "日常用语"],
+    "shortDescription": "常用的问候语。",
+    "culturalNote": "在纳西族文化中，问候对方是否吃饭是一种常见的关心方式，体现了纳西族人民热情好客的传统。",
+    "exampleSentence": "nɯ dʐʅ qʰæ læ?",
+    "exampleTranslation": "你吃饭了吗？",
+    "images": [
+      {
+        "path": "images/entry_0003_main.webp",
+        "caption": "纳西族传统餐食",
+        "altText": "纳西族传统餐食图片"
+      }
+    ],
+    "audio": [
+      {
+        "sourceKey": "source_a",
+        "sourceName": "音源一",
+        "path": "audio/entry_0003_source_a.mp3",
+        "speakerName": "和志华",
+        "dialectName": "丽江坝区",
+        "speedLabel": "正常"
+      },
+      {
+        "sourceKey": "source_b",
+        "sourceName": "音源二",
+        "path": "audio/entry_0003_source_b.mp3",
+        "speakerName": "木丽花",
+        "dialectName": "大研镇",
+        "speedLabel": "正常"
+      }
+    ]
+  },
+  {
+    "id": "entry_0004",
+    "type": "word",
+    "original": "ʂɯ",
+    "transcription": "shv",
+    "translation": "树",
+    "categoryId": "plant",
+    "tags": ["植物", "自然"],
+    "shortDescription": "木本植物的统称。",
+    "culturalNote": "纳西族人民自古以来就与森林有着密切的关系。在东巴文化中，某些树木被视为神圣的象征。",
+    "exampleSentence": "ʂɯ ʈʂʰɯ ʝi ʈʂʰɯ qʰa.",
+    "exampleTranslation": "这棵树很高。",
+    "images": [
+      {
+        "path": "images/entry_0004_main.webp",
+        "caption": "大树图片",
+        "altText": "一棵大树的图片"
+      }
+    ],
+    "audio": [
+      {
+        "sourceKey": "source_a",
+        "sourceName": "音源一",
+        "path": "audio/entry_0004_source_a.mp3",
+        "speakerName": "和志华",
+        "dialectName": "丽江坝区",
+        "speedLabel": "正常"
+      },
+      {
+        "sourceKey": "source_b",
+        "sourceName": "音源二",
+        "path": "audio/entry_0004_source_b.mp3",
+        "speakerName": "木丽花",
+        "dialectName": "大研镇",
+        "speedLabel": "正常"
+      }
+    ]
+  },
+  {
+    "id": "entry_0005",
+    "type": "word",
+    "original": "bæ",
+    "transcription": "bbeiq",
+    "translation": "母亲",
+    "categoryId": "family",
+    "tags": ["亲属", "称谓"],
+    "shortDescription": "对母亲的称呼。",
+    "culturalNote": "在纳西族家庭中，母亲扮演着非常重要的角色。纳西族是一个母系文化痕迹较重的民族，对母亲的尊敬体现在语言和习俗中。",
+    "exampleSentence": "bæ ʝi ʈʂʰɯ qʰa.",
+    "exampleTranslation": "妈妈很好。",
+    "images": [
+      {
+        "path": "images/entry_0005_main.webp",
+        "caption": "纳西族母亲",
+        "altText": "纳西族母亲形象"
+      }
+    ],
+    "audio": [
+      {
+        "sourceKey": "source_a",
+        "sourceName": "音源一",
+        "path": "audio/entry_0005_source_a.mp3",
+        "speakerName": "和志华",
+        "dialectName": "丽江坝区",
+        "speedLabel": "正常"
+      },
+      {
+        "sourceKey": "source_b",
+        "sourceName": "音源二",
+        "path": "audio/entry_0005_source_b.mp3",
+        "speakerName": "木丽花",
+        "dialectName": "大研镇",
+        "speedLabel": "正常"
+      }
+    ]
+  },
+  {
+    "id": "entry_0006",
+    "type": "word",
+    "original": "li˧˥ tɕʰiɑŋ˥˩",
+    "transcription": "li jiang",
+    "translation": "丽江",
+    "categoryId": "place",
+    "tags": ["地名", "世界文化遗产"],
+    "shortDescription": "云南省著名的历史文化名城。",
+    "culturalNote": "丽江古城是纳西族文化的核心区域，1997年被列为世界文化遗产。古城内的木府是纳西族土司的历史驻地。",
+    "exampleSentence": "li˧˥ tɕʰiɑŋ˥˩ ʈʂʰɯ ʝi ʈʂʰɯ qʰa.",
+    "exampleTranslation": "丽江很美。",
+    "images": [
+      {
+        "path": "images/entry_0006_main.webp",
+        "caption": "丽江古城",
+        "altText": "丽江古城的风景图片"
+      }
+    ],
+    "audio": [
+      {
+        "sourceKey": "source_a",
+        "sourceName": "音源一",
+        "path": "audio/entry_0006_source_a.mp3",
+        "speakerName": "和志华",
+        "dialectName": "丽江坝区",
+        "speedLabel": "正常"
+      },
+      {
+        "sourceKey": "source_b",
+        "sourceName": "音源二",
+        "path": "audio/entry_0006_source_b.mp3",
+        "speakerName": "木丽花",
+        "dialectName": "大研镇",
+        "speedLabel": "正常"
+      }
+    ]
+  }
+]
