@@ -1,4 +1,5 @@
 import { Heart, ExternalLink, BookOpen, Mic, Shield } from 'lucide-react';
+import { open } from '@tauri-apps/plugin-shell';
 
 export function AboutPage() {
   return (
@@ -57,15 +58,13 @@ export function AboutPage() {
             语言文化资料采用知识共享协议，请在使用时注明来源。
           </p>
           <div className="flex gap-4">
-            <a
-              href="https://github.com"
-              target="_blank"
-              rel="noopener noreferrer"
+            <button
+              onClick={() => open('https://github.com/Super-GGBond-Roy/DongTing')}
               className="inline-flex items-center gap-2 px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition-colors text-sm"
             >
               <ExternalLink className="w-4 h-4" />
               GitHub 仓库
-            </a>
+            </button>
           </div>
         </section>
 

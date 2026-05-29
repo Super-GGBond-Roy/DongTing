@@ -1,4 +1,4 @@
-import { invoke } from '@tauri-apps/api/core';
+import { convertFileSrc, invoke } from '@tauri-apps/api/core';
 import type { Language, Category, EntrySummary, Entry } from './types';
 
 export async function getLanguages(): Promise<Language[]> {
@@ -22,5 +22,6 @@ export async function searchEntries(query: string): Promise<EntrySummary[]> {
 }
 
 export async function resolveResourceUrl(path: string): Promise<string> {
-  return invoke<string>('resolve_resource_url', { path });
+  const filePath = await invoke<string>('resolve_resource_url', { path });
+  return convertFileSrc(filePath);
 }

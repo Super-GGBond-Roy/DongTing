@@ -43,9 +43,7 @@
       "icons/icon.ico"
     ],
     "resources": {
-      "resources/corpus/corpus.sqlite": "resources/corpus/corpus.sqlite",
-      "resources/corpus/images/*": "resources/corpus/images/",
-      "resources/corpus/audio/*": "resources/corpus/audio/"
+      "resources/corpus": "resources/corpus"
     }
   }
 }

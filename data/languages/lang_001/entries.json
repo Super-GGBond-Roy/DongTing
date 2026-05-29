@@ -2,20 +2,20 @@
   {
     "id": "entry_0001",
     "type": "word",
-    "original": "阿普",
-    "transcription": "a pu",
-    "translation": "苹果",
+    "original": "oux",
+    "transcription": "oux",
+    "translation": "米饭",
     "categoryId": "food",
-    "tags": ["水果", "常用词"],
-    "shortDescription": "一种常见水果。",
-    "culturalNote": "苹果在纳西族地区广泛种植，是当地重要的经济作物之一。在纳西族传统中，苹果象征着平安和丰收。",
-    "exampleSentence": "阿普 ʂɯ ʝi ʈʂʰɯ qʰa.",
-    "exampleTranslation": "这个苹果很甜。",
+    "tags": ["主食", "常用词"],
+    "shortDescription": "侗族传统主食，以糯米为主。",
+    "culturalNote": "糯米饭是侗族最重要的主食，侗族人民种植糯稻历史悠久。在侗族传统中，糯米饭不仅是日常食物，也是节庆、祭祀和待客的必备之物。侗族有'无糯不成席'的说法。",
+    "exampleSentence": "Maix jil oux.",
+    "exampleTranslation": "你吃饭了吗。",
     "images": [
       {
-        "path": "images/entry_0001_main.webp",
-        "caption": "苹果图片",
-        "altText": "一张红苹果的图片"
+        "path": "images/rice.png",
+        "caption": "侗族糯米饭",
+        "altText": "侗族传统糯米饭图片"
       }
     ],
     "audio": [
@@ -23,16 +23,16 @@
         "sourceKey": "source_a",
         "sourceName": "音源一",
         "path": "audio/entry_0001_source_a.mp3",
-        "speakerName": "和志华",
-        "dialectName": "丽江坝区",
+        "speakerName": "吴珍花",
+        "dialectName": "北侗",
         "speedLabel": "正常"
       },
       {
         "sourceKey": "source_b",
         "sourceName": "音源二",
         "path": "audio/entry_0001_source_b.mp3",
-        "speakerName": "木丽花",
-        "dialectName": "大研镇",
+        "speakerName": "杨秀英",
+        "dialectName": "南侗",
         "speedLabel": "正常"
       }
     ]
@@ -40,19 +40,19 @@
   {
     "id": "entry_0002",
     "type": "word",
-    "original": "ʓɯ",
-    "transcription": "ngv",
-    "translation": "牛",
+    "original": "duic",
+    "transcription": "duic",
+    "translation": "水牛",
     "categoryId": "animal",
-    "tags": ["家畜", "常用词"],
-    "shortDescription": "常见的家畜动物。",
-    "culturalNote": "牛在纳西族农耕文化中占有重要地位，是传统农业的重要劳动力。纳西族人民对牛有着深厚的感情。",
-    "exampleSentence": "ʓɯ ʈʂʰɯ tʰv ʝi ʈʂʰɯ qʰa.",
+    "tags": ["家畜", "农耕"],
+    "shortDescription": "侗族农耕社会中重要的家畜。",
+    "culturalNote": "水牛在侗族农耕文化中占有极其重要的地位，是水稻种植不可缺少的劳动力。侗族村寨中，水牛被视为家庭的重要财产。在斗牛节等传统节日中，水牛还承担着竞技和祭祀的功能。",
+    "exampleSentence": "Duic naih laox lai.",
     "exampleTranslation": "这头牛很大。",
     "images": [
       {
-        "path": "images/entry_0002_main.webp",
-        "caption": "牛的图片",
+        "path": "images/entry_0002_buffalo.svg",
+        "caption": "水牛",
         "altText": "一头水牛的图片"
       }
     ],
@@ -60,17 +60,17 @@
       {
         "sourceKey": "source_a",
         "sourceName": "音源一",
-        "path": "audio/entry_0002_source_a.mp3",
-        "speakerName": "和志华",
-        "dialectName": "丽江坝区",
+        "path": "audio/animal/buffalo.mp3",
+        "speakerName": "吴珍花",
+        "dialectName": "北侗",
         "speedLabel": "正常"
       },
       {
         "sourceKey": "source_b",
         "sourceName": "音源二",
         "path": "audio/entry_0002_source_b.mp3",
-        "speakerName": "木丽花",
-        "dialectName": "大研镇",
+        "speakerName": "杨秀英",
+        "dialectName": "南侗",
         "speedLabel": "正常"
       }
     ]
@@ -78,20 +78,20 @@
   {
     "id": "entry_0003",
     "type": "phrase",
-    "original": "你吃饭了吗",
-    "transcription": "nɯ dʐʅ qʰæ læ",
+    "original": "Maix jil oux map?",
+    "transcription": "maix jil oux map",
     "translation": "你吃饭了吗",
     "categoryId": "daily",
     "tags": ["问候", "日常用语"],
-    "shortDescription": "常用的问候语。",
-    "culturalNote": "在纳西族文化中，问候对方是否吃饭是一种常见的关心方式，体现了纳西族人民热情好客的传统。",
-    "exampleSentence": "nɯ dʐʅ qʰæ læ?",
+    "shortDescription": "侗族日常问候语。",
+    "culturalNote": "在侗族社会中，问候对方是否吃饭是最常见的见面礼节，体现了侗族人民关心他人的传统美德。侗族是热情好客的民族，村寨中邻里之间常以此互致问候。",
+    "exampleSentence": "Maix jil oux map?",
     "exampleTranslation": "你吃饭了吗？",
     "images": [
       {
-        "path": "images/entry_0003_main.webp",
-        "caption": "纳西族传统餐食",
-        "altText": "纳西族传统餐食图片"
+        "path": "images/image1.png",
+        "caption": "侗族日常问候",
+        "altText": "侗族人民日常交流场景"
       }
     ],
     "audio": [
@@ -99,16 +99,16 @@
         "sourceKey": "source_a",
         "sourceName": "音源一",
         "path": "audio/entry_0003_source_a.mp3",
-        "speakerName": "和志华",
-        "dialectName": "丽江坝区",
+        "speakerName": "吴珍花",
+        "dialectName": "北侗",
         "speedLabel": "正常"
       },
       {
         "sourceKey": "source_b",
         "sourceName": "音源二",
         "path": "audio/entry_0003_source_b.mp3",
-        "speakerName": "木丽花",
-        "dialectName": "大研镇",
+        "speakerName": "杨秀英",
+        "dialectName": "南侗",
         "speedLabel": "正常"
       }
     ]
@@ -116,19 +116,19 @@
   {
     "id": "entry_0004",
     "type": "word",
-    "original": "ʂɯ",
-    "transcription": "shv",
+    "original": "meix",
+    "transcription": "meix",
     "translation": "树",
     "categoryId": "plant",
     "tags": ["植物", "自然"],
     "shortDescription": "木本植物的统称。",
-    "culturalNote": "纳西族人民自古以来就与森林有着密切的关系。在东巴文化中，某些树木被视为神圣的象征。",
-    "exampleSentence": "ʂɯ ʈʂʰɯ ʝi ʈʂʰɯ qʰa.",
+    "culturalNote": "侗族人民自古以来与森林和谐共处，侗族地区森林覆盖率极高。杉木是侗族地区最重要的树种，用于建造鼓楼、风雨桥和民居。侗族有植树护林的传统习俗，'老人种树、后人乘凉'的理念深入人心。",
+    "exampleSentence": "Meix naih laos lai.",
     "exampleTranslation": "这棵树很高。",
     "images": [
       {
-        "path": "images/entry_0004_main.webp",
-        "caption": "大树图片",
+        "path": "images/tree.png",
+        "caption": "大树",
         "altText": "一棵大树的图片"
       }
     ],
@@ -137,16 +137,16 @@
         "sourceKey": "source_a",
         "sourceName": "音源一",
         "path": "audio/entry_0004_source_a.mp3",
-        "speakerName": "和志华",
-        "dialectName": "丽江坝区",
+        "speakerName": "吴珍花",
+        "dialectName": "北侗",
         "speedLabel": "正常"
       },
       {
         "sourceKey": "source_b",
         "sourceName": "音源二",
         "path": "audio/entry_0004_source_b.mp3",
-        "speakerName": "木丽花",
-        "dialectName": "大研镇",
+        "speakerName": "杨秀英",
+        "dialectName": "南侗",
         "speedLabel": "正常"
       }
     ]
@@ -154,20 +154,20 @@
   {
     "id": "entry_0005",
     "type": "word",
-    "original": "bæ",
-    "transcription": "bbeiq",
+    "original": "neix",
+    "transcription": "neix",
     "translation": "母亲",
     "categoryId": "family",
     "tags": ["亲属", "称谓"],
     "shortDescription": "对母亲的称呼。",
-    "culturalNote": "在纳西族家庭中，母亲扮演着非常重要的角色。纳西族是一个母系文化痕迹较重的民族，对母亲的尊敬体现在语言和习俗中。",
-    "exampleSentence": "bæ ʝi ʈʂʰɯ qʰa.",
+    "culturalNote": "在侗族家庭中，母亲是家庭生活的核心。侗族社会重视母系亲属关系，母亲在子女教育、家庭事务中发挥着重要作用。侗族大歌中有大量歌颂母爱的曲目，体现了侗族人民对母亲的深厚感情。",
+    "exampleSentence": "Neix jiuc mangc.",
     "exampleTranslation": "妈妈很好。",
     "images": [
       {
         "path": "images/entry_0005_main.webp",
-        "caption": "纳西族母亲",
-        "altText": "纳西族母亲形象"
+        "caption": "侗族母亲",
+        "altText": "侗族母亲形象"
       }
     ],
     "audio": [
@@ -175,16 +175,16 @@
         "sourceKey": "source_a",
         "sourceName": "音源一",
         "path": "audio/entry_0005_source_a.mp3",
-        "speakerName": "和志华",
-        "dialectName": "丽江坝区",
+        "speakerName": "吴珍花",
+        "dialectName": "北侗",
         "speedLabel": "正常"
       },
       {
         "sourceKey": "source_b",
         "sourceName": "音源二",
         "path": "audio/entry_0005_source_b.mp3",
-        "speakerName": "木丽花",
-        "dialectName": "大研镇",
+        "speakerName": "杨秀英",
+        "dialectName": "南侗",
         "speedLabel": "正常"
       }
     ]
@@ -192,20 +192,20 @@
   {
     "id": "entry_0006",
     "type": "word",
-    "original": "li˧˥ tɕʰiɑŋ˥˩",
-    "transcription": "li jiang",
-    "translation": "丽江",
+    "original": "Xongl Jangh",
+    "transcription": "xongl jangh",
+    "translation": "从江",
     "categoryId": "place",
-    "tags": ["地名", "世界文化遗产"],
-    "shortDescription": "云南省著名的历史文化名城。",
-    "culturalNote": "丽江古城是纳西族文化的核心区域，1997年被列为世界文化遗产。古城内的木府是纳西族土司的历史驻地。",
-    "exampleSentence": "li˧˥ tɕʰiɑŋ˥˩ ʈʂʰɯ ʝi ʈʂʰɯ qʰa.",
-    "exampleTranslation": "丽江很美。",
+    "tags": ["地名", "侗族聚居地"],
+    "shortDescription": "贵州省黔东南州从江县，侗族重要聚居地。",
+    "culturalNote": "从江县是贵州省黔东南苗族侗族自治州下辖县，是侗族文化的重要发源地之一。这里有中国最大的侗族鼓楼群，增冲鼓楼是全国重点文物保护单位。从江也是侗族大歌的传承核心区，侗族大歌已被列入联合国教科文组织人类非物质文化遗产代表作名录。",
+    "exampleSentence": "Xongl Jangh naih laos lai.",
+    "exampleTranslation": "从江很美。",
     "images": [
       {
         "path": "images/entry_0006_main.webp",
-        "caption": "丽江古城",
-        "altText": "丽江古城的风景图片"
+        "caption": "从江侗寨",
+        "altText": "从江县侗族村寨的风景图片"
       }
     ],
     "audio": [
@@ -213,16 +213,54 @@
         "sourceKey": "source_a",
         "sourceName": "音源一",
         "path": "audio/entry_0006_source_a.mp3",
-        "speakerName": "和志华",
-        "dialectName": "丽江坝区",
+        "speakerName": "吴珍花",
+        "dialectName": "北侗",
         "speedLabel": "正常"
       },
       {
         "sourceKey": "source_b",
         "sourceName": "音源二",
         "path": "audio/entry_0006_source_b.mp3",
-        "speakerName": "木丽花",
-        "dialectName": "大研镇",
+        "speakerName": "杨秀英",
+        "dialectName": "南侗",
+        "speedLabel": "正常"
+      }
+    ]
+  },
+  {
+    "id": "entry_0007",
+    "type": "word",
+    "original": "cat",
+    "transcription": "cat",
+    "translation": "猫",
+    "categoryId": "animal",
+    "tags": ["动物", "家畜"],
+    "shortDescription": "家猫的称呼。",
+    "culturalNote": "在侗族文化中，猫被视为家庭的一部分，与人类和谐共处。侗族人民对猫有着深厚的感情，认为它们是家庭的守护者。",
+    "exampleSentence": "Cat naih laos lai.",
+    "exampleTranslation": "从江很美。",
+    "images": [
+      {
+        "path": "images/animal/cat.svg",
+        "caption": "家猫",
+        "altText": "家猫的图片"
+      }
+    ],
+    "audio": [
+      {
+        "sourceKey": "source_a",
+        "sourceName": "音源一",
+        "path": "audio/animal/cat.mp3",
+        "speakerName": "吴珍花",
+        "dialectName": "北侗",
+        "speedLabel": "正常"
+      },
+      {
+        "sourceKey": "source_b",
+        "sourceName": "音源二",
+        "path": "audio/entry_0007_source_b.mp3",
+        "speakerName": "杨秀英",
+        "dialectName": "南侗",
         "speedLabel": "正常"
       }
     ]

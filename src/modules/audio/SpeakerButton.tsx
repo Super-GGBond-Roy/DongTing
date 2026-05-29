@@ -1,6 +1,6 @@
 import { useState, useCallback } from 'react';
 import { Play, Square } from 'lucide-react';
-import { playAudio, stopAudio, onPlaybackStop } from './audioPlayer';
+import { playAudio, stopAudio } from './audioPlayer';
 import { resolveResourceUrl } from '../archive/archiveApi';
 
 interface SpeakerButtonProps {
@@ -21,9 +21,8 @@ export function SpeakerButton({ audioPath, label, className = '' }: SpeakerButto
 
     try {
       setPlaying(true);
-      onPlaybackStop(() => setPlaying(false));
       const url = await resolveResourceUrl(audioPath);
-      await playAudio(url);
+      await playAudio(url, () => setPlaying(false));
     } catch (err) {
       console.error('Audio playback error:', err);
       setPlaying(false);
