@@ -2,7 +2,7 @@
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
   "productName": "语言文化资料库",
   "version": "0.1.0",
-  "identifier": "com.language-archive.app",
+  "identifier": "com.dongting.app",
   "build": {
     "frontendDist": "../dist",
     "devUrl": "http://localhost:5173",
@@ -23,7 +23,13 @@
       }
     ],
     "security": {
-      "csp": null
+      "csp": null,
+      "assetProtocol": {
+        "enable": true,
+        "scope": [
+          "$RESOURCE/resources/corpus/**"
+        ]
+      }
     }
   },
   "bundle": {

@@ -1,5 +1,5 @@
 [package]
-name = "language-archive"
+name = "dongting"
 version = "0.1.0"
 description = "侗听"
 authors = ["Language Archive Project"]
@@ -19,7 +19,8 @@ tauri-build = { version = "2.6.2", features = [] }
 serde_json = "1.0"
 serde = { version = "1.0", features = ["derive"] }
 log = "0.4"
-tauri = { version = "2.11.2", features = [] }
+tauri = { version = "2.11.2", features = ["protocol-asset"] }
 tauri-plugin-log = "2"
+tauri-plugin-shell = "2"
 rusqlite = { version = "0.32", features = ["bundled"] }
 thiserror = "2"

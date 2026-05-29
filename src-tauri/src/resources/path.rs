@@ -12,7 +12,7 @@ pub fn resolve_resource_url(app: AppHandle, path: String) -> Result<String, Stri
     let full_path = resource_dir.join("resources").join("corpus").join(&path);
 
     if full_path.exists() {
-        return Ok(format!("file://{}", full_path.display()));
+        return Ok(full_path.to_string_lossy().to_string());
     }
 
     let dev_path = PathBuf::from("../src-tauri/resources/corpus").join(&path);
@@ -20,7 +20,7 @@ pub fn resolve_resource_url(app: AppHandle, path: String) -> Result<String, Stri
         let abs = dev_path
             .canonicalize()
             .map_err(|e| format!("Failed to canonicalize path: {}", e))?;
-        return Ok(format!("file://{}", abs.display()));
+        return Ok(abs.to_string_lossy().to_string());
     }
 
     Err(format!("Resource not found: {}", path))
